@@ -1,0 +1,10 @@
+# Data
+*.csv
+*.xlsx
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
